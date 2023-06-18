@@ -22,3 +22,4 @@
 - WHEN I click on the links in the Table of Contents
   - THEN I am taken to the corresponding section of the README
 
+<img width="1163" alt="Screenshot 2023-06-18 at 1 36 23 PM" src="https://github.com/joshuawongg/README-Generator/assets/103795053/208576e6-2c80-43ca-8c64-f105230c3e51">
